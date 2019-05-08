@@ -1,7 +1,8 @@
 #!/bin/bash
 #Shell版ConfigParser
 ##################################################
-## Author     :  Dragon
+## Author     :  OPSTime
+## GitHub     :  https://github.com/OPSTime
 ## Create Date:  2010-01-14
 ## Modify Date:  2011-12-15 16:00
 ##################################################

@@ -1,3 +1,9 @@
+#!/bin/bash
+##################################################
+## Author     :  OPSTime
+## GitHub     :  https://github.com/OPSTime
+##################################################
+
 echo -n "\E[31;40m""\033[1m" "\033[0m";echo -ne "\t";echo -e "\E[31;40m""\033[1m""okokokok""\033[0m";
 echo -n "\E[32;40m""\033[1m" "\033[0m";echo -ne "\t";echo -e "\E[32;40m""\033[1m""okokokok""\033[0m";
 echo -n "\E[33;40m""\033[1m" "\033[0m";echo -ne "\t";echo -e "\E[33;40m""\033[1m""okokokok""\033[0m";

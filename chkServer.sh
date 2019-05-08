@@ -1,6 +1,7 @@
 #!/bin/bash
 ##################################################
-## Author     :  Dragon
+## Author     :  OPSTime
+## GitHub     :  https://github.com/OPSTime
 ## Create Date:  2009-12-30 14:30 
 ## Modify Date:  2010-01-21 11:45
 ##################################################
