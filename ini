@@ -1,0 +1,21 @@
+#apache modules
+[apache]
+_SerName =	 apache
+_SerSourcePath=/data/src/LAMP/httpd-2.2.11
+_SerInsPath=/usr/local
+_apacheData=/usr/local/apache/conf/httpd.conf,/usr/local/apache/htdocs
+#test123=123
+
+[mysql]
+#test123=123
+_SerName=mysql	#sfsfssfsfsfsfs
+_SerSourcePath = /data/src/LAMP/mysql
+_SerInsPath=/usr/local
+_mysqlData=/usr/local/mysql/conf/httpd.conf,/usr/local/mysql/data
+
+[test]
+_SerName=test1
+test123=123
+_SerSourcePath=test2
+#_SerInsPath=test3    #sfsfssfsfsfsfs
+_testData=test4
