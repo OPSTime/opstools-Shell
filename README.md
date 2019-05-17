@@ -7,6 +7,6 @@
 
 ![](imgs/configParser.sh.e1.png)
 
-**3. printColors.sh：打印输出各种颜色，命令行输出可以使用**  
+**3. printColors.sh：打印输出各种颜色，具体使用参见脚本chkServer.sh**  
 
 ![](imgs/printColors.sh.png)
